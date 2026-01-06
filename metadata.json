@@ -1,0 +1,8 @@
+{
+  "name": "Harmony Super App",
+  "description": "A comprehensive marketplace connecting customers with service providers like priests (Poojari) and plumbers, featuring seamless booking, real-time chat, and AI-powered recommendations.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
